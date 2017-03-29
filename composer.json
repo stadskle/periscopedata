@@ -1,0 +1,26 @@
+{
+    "name": "stadskle/periscopedata",
+    "license": "MIT",
+    "type": "library",
+    "description": "PHP Client for working with periscopedata",
+    "homepage": "https://github.com/stadskle/periscopedata",
+    "autoload": {
+        "psr-4" : {
+            "Stadskle\\PeriscopeData\\" : "src"
+        }
+    },
+     "autoload-dev": {
+        "psr-4": { 
+            "Stadskle\\PeriscopeData\\Tests\\" : "tests"
+        }
+    },
+     "authors": [
+        {
+            "name": "Ketil Stadskleiv",
+            "email": "ketil@stadskleiv.no"
+        }
+    ],
+     "require-dev": {
+        "phpunit/phpunit": "^6"
+    }
+}
