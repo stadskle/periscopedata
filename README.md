@@ -1,5 +1,5 @@
 # Periscope Data embed API
-PHP client for working with periscopedata API
+PHP client for working with periscopedata API.
 
 Simple client to work with periscopedata.com embed API. See https://doc.periscopedata.com/docv2/embed-api for details.
 
